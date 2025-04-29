@@ -40,7 +40,3 @@ Vendo esse cenário, a esposa de Toshiro sugeriu que eles migrassem para uma arq
 Microsserviços é uma arquitetura de software que constrói aplicações distribuindo elas por servidores independentes, onde cada serviço é executado separadamente, conectados por API.
 
 Geralmente utilizam JSON nessa comunicação entre servidores, e podem ser escritos em várias linguagens de programação.
-
-## CONCLUSÃO
-
-Por meio desse estudo de caso, podemos entender o funcionamento de servidores em nuvem pública e microsserviços de modo prático, fundamentando nossos conhecimentos prévios sobre o tema e relacionando com a carreira de DevOps.
